@@ -1,4 +1,6 @@
-odata3
-======
+odata-ruby
+==========
 
-Ruby implementation of OData 3 - http://www.odata.org/media/30002/OData.html
+Ruby implementation of OData 4
+
+http://www.odata.org/documentation/odata-version-4-0-may-2013-public-review/
